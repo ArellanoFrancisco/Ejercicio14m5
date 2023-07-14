@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Banco 059</string>
+    <string name="Title">Banco 059</string>
+    <string name="welcome">Bienvenido al Banco 059</string>
+    <string name="instrucciones">Seleccione una Operacion</string>
+    <string name="saldo">Ver Saldo </string>
+    <string name="saldo1">Su Saldo es:</string>
+    <string name="monto1"> %1$s </string>
+    <string name="monto"> $ </string>
+    <string name="ingresar">Ingresar</string>
+    <string name="ingresar2">Ingrese Monto a Depositar</string>
+    <string name="retirar">Retirar</string>
+    <string name="retirar2">Ingrese Monto a Retirar</string>
+    <string name="Salir">Salir</string>
+    <string name="boton">OK</string>
+    <string name="boton2">Aceptar</string>
+    <string name="boton3">Volver</string>
+    <string name="mensaje1">Operacion Exitosa</string>
+    <string name="mensaje2">Operacion invalida!, intente otro monto</string>
+</resources>
